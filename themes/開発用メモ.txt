@@ -35,6 +35,8 @@ editorGroupHeader.noTabsBackground
 editorPane.background
 editorLineNumber.activeForeground
 editorCursor.background
+editor.findRangeHighlightBackground
+editor.selectionHighlightBorder
 
 いらないと思われる
 window.activeBorder

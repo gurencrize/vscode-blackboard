@@ -37,38 +37,12 @@ editorLineNumber.activeForeground
 editorCursor.background
 editor.findRangeHighlightBackground
 editor.selectionHighlightBorder
-
-いらないと思われる
-window.activeBorder
-window.inactiveBorder
-button.hoverBackground
-dropdown.listBackground いるかも
-activityBar.border
-activityBar.activeBorder
-activityBar.activeFocusBorder
-sideBar.border
-sideBar.dropBackground
-sideBarSectionHeader.border
-editorGroupHeader.tabsBorder
-editorGroup.emptyBackground
-editorGroup.focusedEmptyBorder
-tab.border
-tab.activeBorder
-tab.unfocusedActiveBorder
-tab.activeBorderTop
-tab.unfocusedActiveBorderTop
-tab.hoverBorder
-tab.unfocusedHoverBorder
-tab.activeModifiedBorder
-tab.inactiveModifiedBorder
-tab.unfocusedActiveModifiedBorder
-tab.unfocusedInactiveModifiedBorder
-editor.selectionForeground
-editor.inactiveSelectionBackground
-editor.selectionHighlightBorder
-editor.wordHighlightBorder
-editor.wordHighlightStrongBorder
-
+editor.symbolHighlightBackground
+editorIndentGuide.background
+editorIndentGuide.activeBackground "editor.renderIndentGuides": true ってなに
+editorRuler.foreground "editor.rulers" とは
+editorCodeLens.foreground CodeLens とは？
+editorLightBulb.foreground 電球アイコンみたことある気がするんだけどなぁ
 そのうちいれる
 contrastActiveBorder
 window.activeBorder
@@ -82,4 +56,4 @@ inputOption.activeBackground
 progressBar.background どうやって能動的にプログレスバー出すんだよ
 list.dropBackground
 
-editor.wordHighlightStrongBorderまでやった！
+editor.foldBackgroundまでやった！

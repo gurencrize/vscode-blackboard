@@ -43,6 +43,10 @@ editorIndentGuide.activeBackground "editor.renderIndentGuides": true ってな�
 editorRuler.foreground "editor.rulers" とは
 editorCodeLens.foreground CodeLens とは？
 editorLightBulb.foreground 電球アイコンみたことある気がするんだけどなぁ
+editorOverviewRuler関連　いらん気がする
+editor.stackFrameHighlightBackground
+editor.focusedStackFrameHighlightBackgroundこの2つ実際に使ったことがない
+
 そのうちいれる
 contrastActiveBorder
 window.activeBorder
@@ -56,4 +60,4 @@ inputOption.activeBackground
 progressBar.background どうやって能動的にプログレスバー出すんだよ
 list.dropBackground
 
-editor.foldBackgroundまでやった！
+とりあえず一通りやった！

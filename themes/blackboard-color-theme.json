@@ -7,7 +7,7 @@
         //"contrastBorder":"",
 
         //Base colors
-        "focusBorder":"#827E17",
+        "focusBorder":"#3C9B1C",
         "foreground":"#D4DBD2",
         //"widget.shadow":"",
         //"selection.background":"",
@@ -20,19 +20,19 @@
         //"window.inactiveBorder":"",
 
         //Text colors
-        //"textBlockQuote.background":"",
-        //"textBlockQuote.border":"",
-        //"textCodeBlock.background":"",
-        //"textLink.activeForeground":"",
-        //"textLink.foreground":"",
-        //"textPreformat.foreground":"",
-        //"textSeparator.foreground":"",
+        "textBlockQuote.background":"#223459",
+        "textBlockQuote.border":"#4163AD",
+        //"textCodeBlock.background": "",
+        "textLink.activeForeground":"#EDE62A",
+        "textLink.foreground":"#66DCCC",
+        "textPreformat.foreground":"#EDE62A",
+        //"textSeparator.foreground":"#FF0000",
 
         //Button control
-        "button.background":"#56704D",
+        "button.background":"#286713",
         //"button.foreground":"",
         //"button.hoverBackground":"",
-        //"checkbox.background":"",
+        //"checkbox.background":"#ff0000",
         //"checkbox.foreground":"",
         //"checkbox.border":"",
 
@@ -78,7 +78,7 @@
         "activityBar.background":"#0B1B05",
         //"activityBar.foreground":"#D4DBD2",
         //"activityBar.inactiveForeground":"#AAB7A6",
-        "activityBarBadge.background": "#91141E",
+        "activityBarBadge.background": "#D71D2D",
         //"activityBarBadge.foreground":"#E9EDE8",
         "activityBar.activeBackground":"#112B09",
 
@@ -362,7 +362,12 @@
         //"editor.snippetTabstopHighlightBorder":"",
         //"editor.snippetFinalTabstopHighlightBackground":"",
         //"editor.snippetFinalTabstopHighlightBorder":"",
+
+        //Symbol Icons colors
         
+        //Debug Icons colors
+
+        //Notebook colors
 
     },
     "tokenColors": [
@@ -373,7 +378,7 @@
 				"punctuation.definition.comment"
 			],
             "settings": {
-                "foreground": "#b4c6ae"
+                "foreground": "#82be6e"
             }
 		},
         {

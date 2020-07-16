@@ -18,5 +18,9 @@
                 "path": "./themes/blackboard-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gurencrize/vscode-blackboard.git"
     }
 }

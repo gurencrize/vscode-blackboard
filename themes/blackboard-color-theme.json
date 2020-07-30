@@ -104,7 +104,7 @@
         //"tab.activeForeground":"#071103",
         "tab.inactiveBackground":"#0B1B05",
         //"tab.inactiveForeground":"#E9EDE8",
-        "tab.unfocusedActiveForeground":"#112B09",
+        //"tab.unfocusedActiveForeground":"#112B09",
         //"tab.unfocusedInactiveForeground":"#112B09",
         "tab.hoverBackground":"#15360A",
         "tab.unfocusedHoverBackground":"#15360A",

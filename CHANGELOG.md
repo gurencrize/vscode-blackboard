@@ -11,3 +11,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.2]
 
 - インストール時にテスト用ファイルが混入していたのを修正
+
+## [0.0.3]
+
+- フォーカスされてないグループ内のアクティブなタブの文字色が暗すぎたのを修正

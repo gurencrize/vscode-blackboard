@@ -15,3 +15,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.3]
 
 - フォーカスされてないグループ内のアクティブなタブの文字色が暗すぎたのを修正
+
+## [0.1.1]
+
+- 文字の配色を全体的に修正

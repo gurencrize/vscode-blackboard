@@ -2,7 +2,7 @@
 	"name": "blackboard",
 	"displayName": "blackboard",
 	"description": "",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"publisher": "crize",
 	"engines": {
 		"vscode": "^1.36.0"
